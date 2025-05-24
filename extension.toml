@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Artyom Matsukov <psixart1@gmail.com>"]
 description = "A sleek dark theme for Zed, inspired by the Community Material Theme from Visual Studio Code"
-repository = "https://github.com/Kritok-by/material_darker_community"
+repository = "https://github.com/Kritok-by/material-darker-community"
